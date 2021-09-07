@@ -8,7 +8,7 @@ Video link: https://youtu.be/6pv_xrBMJ3Q
 
 So you're an Arduino project maker noob? Feeling a bit overwhelmed by it all? Where to start? What could possibly go wrong?
 
-I describe what I do to maximise project success, from the schematic (circuit diagram), the PCB and obtaining all the parts, using my Smart Heater Contoller that I'm building for my workshop as an example.
+I describe what I do to maximise project success, from the schematic (circuit diagram), the PCB and obtaining all the parts, using my Smart Heater Controller that I'm building for my workshop as an example.
 
 ### PARTS I'M USING (UK sourced, mainly, but available worldwide)
 ► 20mm Glass Fuse holder (240v 1A)
@@ -22,7 +22,7 @@ https://www.dem-uk.com/roxburgh/Data/Product_Downloads/roxburgh-xe1201-rc-networ
 https://cpc.farnell.com/myrra/47246/power-supply-4w-5vdc-12vdc-reg/dp/TF01451?st=mryya%2047000%20series
 https://www.farnell.com/datasheets/606238.pdf
 
-► Multicomp Pro minature power relay (12v/16A @ 240v) and datasheet
+► Multicomp Pro miniature power relay (12v/16A @ 240v) and datasheet
 https://cpc.farnell.com/multicomp/hrm2-s-dc12v/relay-spdt-250vac-12vdc-16a/dp/SW05896
 https://www.farnell.com/datasheets/1318173.pdf
 
